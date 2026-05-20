@@ -18,7 +18,7 @@
 
 
 ## Projeto Pessoal
-[![Projeto Pessoal](https://devsnorte-community.fly.storage.tigris.dev/projects/92/main_vivora-banner3.jpg)](https://comunidade.devsnorte.com/projetos/92)
+![Projeto Pessoal](https://devsnorte-community.fly.storage.tigris.dev/projects/92/main_vivora-banner3.jpg)
 
 A plataforma completa que revoluciona a administração de condomínios! O aplicativo oferece tudo que você precisa para gerenciar seu condomínio de forma eficiente, segura e digital.
 O VIVORA é a plataforma que substitui a burocracia operacionalel, conectando moradores, síndicos e portaria em um ecossistema 24/7.
