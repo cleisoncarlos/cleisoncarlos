@@ -1,5 +1,24 @@
 <h1 align="center">Hi 👋, I'm Cleison Carlos</h1>
 <h3 align="center">A developer from Brazil</h3>
+
+I am a Full-Stack Software Developer focused on building scalable software engineering solutions, robust system architectures, and premium user experiences (UI/UX). I specialize in developing high-impact web and mobile applications, combining clean code, strong typing, and minimalist, high-end interfaces.
+
+I have solid experience architecting backend ecosystems using Node.js and TypeScript, modeling both relational and NoSQL databases (MongoDB, PostgreSQL), and delivering seamless cross-platform mobile experiences with React Native and Expo—including real-time communication via Socket.io and advanced push notification pipelines (OneSignal).
+
+Beyond writing code, I actively apply advanced UI/UX principles to ensure the final product is disruptive, fluid, and deeply centered around user experience.
+
+🛠️ Core Tech Stack & Keywords:
+
+• Backend: Node.js, TypeScript, Express, NestJS, RESTful APIs, GraphQL, Sockets (Socket.io)
+• Frontend & Mobile: React Native, Expo, React.js, JavaScript, TailwindCSS, State Management
+• Databases & ORMs: MongoDB, PostgreSQL, Sequelize, Mongoose
+• CMS & Web: WordPress, PHP, Custom Theme Development
+• Design & UX: UI/UX Design, Figma, Wireframing, Minimalist Interfaces, Component Design
+• DevOps & Infrastructure: Git, GitHub, Docker, CI/CD, Cloud Infrastructure (AWS/GCP), App Store Deployment
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cleisoncarlos" alt="cleisoncarlos" /> </p>
 
 
